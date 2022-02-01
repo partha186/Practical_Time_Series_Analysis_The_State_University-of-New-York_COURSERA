@@ -1,2 +1,2 @@
-# Practical_Time_Series_Analysis_The_State_University-of-New-York_COURSERA
-Practical_Time_Series_Analysis_The_State_University-of-New-York_COURSERA---LEC NOTES-- 
+# Practical-Time-Series-Analysis---The-State-University-of-New-York---Coursera
+Course materials for the Coursera MOOC: Practical Time Series Analysis from The State University of New York
